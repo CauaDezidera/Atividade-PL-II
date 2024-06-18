@@ -10,7 +10,7 @@ export default class PaginaInicial extends Component<Props> {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          height: "90vh", 
+          height: "95vh", 
           backgroundColor: tema,
           margin: "0",
           padding: "0",
